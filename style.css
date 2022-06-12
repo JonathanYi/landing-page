@@ -21,4 +21,31 @@ ul {
 .body-1 {
     color: white;
     background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+
+.body-2-cards {
+    text-align: center;
+}
+.cards {
+    display: flex;
+    justify-content: center;
+}
+
+.body-3-quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+}
+
+.body-4 {
+    display: flex;
+}
+
+.footer {
+    display: flex;
+    color: white;
+    background-color: #1f2937;
+    justify-content: center;
 }
